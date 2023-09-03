@@ -33,7 +33,7 @@ def on_message(message_history: List[Message], state: dict = None):
         },
         "errors": [
             {
-                "message": ""
+                "message": "hi"
             }
         ]
     }
